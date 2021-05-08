@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "name": "Stockholm",
+      "condition": "snowy",
+      "wind-speed": 0.4,
+      "tempreture": -2
+    },
+    {
+      "name": "Berlin",
+      "condition": "sunny",
+      "wind-speed": 0.1,
+      "tempreture": 23
+    },
+    {
+      "name": "Paris",
+      "condition": "cloudy",
+      "wind-speed": 2,
+      "tempreture": 15
+    },
+    {
+      "name": "London",
+      "condition": "rainy",
+      "wind-speed": 7,
+      "tempreture": 8
+    }
+  ]
+}
